@@ -1,6 +1,6 @@
 ### Hi there 👋, Marwen Tlili
 #### Web/Mobile developer
-![Web/Mobile developer](https://cdn-learn.adafruit.com/assets/assets/000/112/622/original/programming_GitHub_logo_with_mark.png?1656187481 | width=100)
+![Web/Mobile developer](https://cdn-learn.adafruit.com/assets/assets/000/112/622/original/programming_GitHub_logo_with_mark.png?1656187481 =100x100)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
