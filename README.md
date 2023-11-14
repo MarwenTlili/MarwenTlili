@@ -1,6 +1,5 @@
 ### Hi there 👋, Marwen Tlili
 #### Web/Mobile developer
-![Web/Mobile developer]
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
