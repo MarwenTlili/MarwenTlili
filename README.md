@@ -2,7 +2,7 @@
 #### Web/Mobile developer
 ![Web/Mobile developer](https://cdn-learn.adafruit.com/assets/assets/000/112/622/original/programming_GitHub_logo_with_mark.png?1656187481)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats=100x100)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats|width=100)
 
 Previously, I was a senior IT technician and have always had a deep-rooted fascination with web and mobile development, In order to ease my entry to this field and continue learning, I obtained a professional master's degree in software engineering and rapid application development. Also, have proven track record of building and maintaining web projects, showcasing skills and accomplishments on my GitHub repositories.
 
