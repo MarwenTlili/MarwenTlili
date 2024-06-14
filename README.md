@@ -11,7 +11,7 @@ Skills: PHP / Symfony / Api-Platform / HTML / CSS / JS / NextJS / ReactJS
 - 🌱 I’m currently learning NextJS 
 - 👯 I’m looking to collaborate on RestFul API, FullStack 
 - 🤔 I’m looking for help with ERP 
-- 💬 Ask me about Symfony, ReactJS 
+- 💬 Ask me about Symfony, NextJS 
 - 📫 How to reach me: marwentlili@gmail.com 
 - 😄 Pronouns: He, Him 
 - ⚡ Fun fact: I'm leaving in Tunisia 
