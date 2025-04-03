@@ -1,7 +1,7 @@
 ### Hi there 👋, Marwen Tlili
 #### Web/Mobile developer
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MarwenTlili)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MarwenTlili)](https://git.io/streak-stats)
 
 Previously, I was a senior IT technician and have always had a deep-rooted fascination with web and mobile development, In order to ease my entry to this field and continue learning, I obtained a professional master's degree in software engineering and rapid application development. Also, have proven track record of building and maintaining web projects, showcasing skills and accomplishments on my GitHub repositories.
 
